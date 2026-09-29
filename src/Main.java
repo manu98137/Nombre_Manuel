@@ -7,3 +7,5 @@ public class Main {
         System.out.println("BIENVENIDO AL EJERCICIO FORK Y PULL REQUEST!");
         System.out.println("___________________________________________");
         System.out.println("Manuel Romero");
+        System.out.println("Pedro Fernández Pina");
+        
